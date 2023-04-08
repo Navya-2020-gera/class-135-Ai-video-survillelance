@@ -1,0 +1,23 @@
+body{
+background-size: cover;
+}
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+#start{
+    font-size : 18px;
+}
+#status , #no_of_objects {
+    font-size : 18px;
+}
+.copy_right_footer {
+position: fixed;
+color: aqua;
+bottom: 0;
+width: 100%;
+background-color: blueviolet
+line-height:3;
+text-align: center;
+}
